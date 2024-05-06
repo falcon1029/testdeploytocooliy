@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testdeploytocooliy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e4374380595a206ba7341dae528e3e2a3eab6d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f07a4bd3c4c8e160453163b98c1a7a13a3694328")]
 [assembly: System.Reflection.AssemblyProductAttribute("testdeploytocooliy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testdeploytocooliy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

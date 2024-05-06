@@ -24,15 +24,14 @@ public class WeatherForecastController(ILogger<WeatherForecastController> logger
         })
         .ToArray();
     }
-      [HttpGet("/test",Name = "GetWeatherForecast")]
-    public IEnumerable<WeatherForecast> Test()
+    [HttpGet("/test", Name = "GetWeatherForecastT")]
+    public IActionResult Test()
     {
-        return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        var result = new
         {
-            Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-        })
-        .ToArray();
+            name = "ericjhuneEspa"
+        };
+
+        return Ok(result);
     }
 }

@@ -31,3 +31,8 @@ C:\Code\testdeploytocooliy\obj\Debug\net8.0\refint\testdeploytocooliy.dll
 C:\Code\testdeploytocooliy\obj\Debug\net8.0\testdeploytocooliy.pdb
 C:\Code\testdeploytocooliy\obj\Debug\net8.0\testdeploytocooliy.genruntimeconfig.cache
 C:\Code\testdeploytocooliy\obj\Debug\net8.0\ref\testdeploytocooliy.dll
+C:\Code\testdeploytocooliy\bin\Debug\net8.0\out\web.config
+C:\Code\testdeploytocooliy\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Code\testdeploytocooliy\bin\Debug\net8.0\out\appsettings.json
+C:\Code\testdeploytocooliy\bin\Debug\net8.0\out\testdeploytocooliy.deps.json
+C:\Code\testdeploytocooliy\bin\Debug\net8.0\out\testdeploytocooliy.runtimeconfig.json

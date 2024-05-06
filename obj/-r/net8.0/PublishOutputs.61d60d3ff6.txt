@@ -1,0 +1,11 @@
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\testdeploytocooliy.exe
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\appsettings.Development.json
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\appsettings.json
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\testdeploytocooliy.dll
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\testdeploytocooliy.deps.json
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\testdeploytocooliy.runtimeconfig.json
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\testdeploytocooliy.pdb
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\Microsoft.OpenApi.dll
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Code\testdeploytocooliy\bin\-r\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

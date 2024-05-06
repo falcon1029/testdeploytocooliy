@@ -1,0 +1,6 @@
+﻿services:
+  testdeploytocooliy:
+    image: testdeploytocooliy
+    build:
+      context: .
+      dockerfile: Dockerfile
